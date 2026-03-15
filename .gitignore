@@ -45,3 +45,9 @@ Poster.pptx
 *.bak
 *.tmp
 *.log
+
+# Local script variants not intended for public release
+autonomous_driving_test_backup.py
+autonomous_driving_test_v2.py
+autonomous_driving_test_v3.py
+autonomous_driving_test_v4.py
