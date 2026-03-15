@@ -1,0 +1,47 @@
+# Local editor and cache files
+.cursor/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local CARLA assets and generated datasets
+carla-ue5-dev/
+carla_data/
+test_data/
+test_output/
+poster_assets/
+ego_vehicle_data/
+logs/
+
+# BeamFusion generated outputs
+beamfusion_sandbox/**/outputs/
+beamfusion_sandbox/**/__pycache__/
+
+# Media and large binary assets
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.pdf
+*.pptx
+*.ppt
+*.zip
+*.7z
+*.rar
+
+# Coursework and working artifacts
+CE301_*.txt
+CE301_*.md
+CE301*.pdf
+CE301*.pptx
+Poster.pptx
+1.mp4
+2.mp4
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.log
